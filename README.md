@@ -29,7 +29,8 @@ implementation 'com.zhidiantech:orangedialog:1.0.0'
 - 支持处理弹窗内View
 - 支持弹窗内View状态的保存与恢复
 - 支持点击阴影关闭弹窗
-- 普通创建FMDialog
+
+### 普通创建FMDialog
 
 ``` 
  //实例化Builder
